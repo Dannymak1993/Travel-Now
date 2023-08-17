@@ -44,3 +44,10 @@
     margin-bottom: 16px;
     border: 1px solid #fff;
 }
+
+.footer-links {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+}
